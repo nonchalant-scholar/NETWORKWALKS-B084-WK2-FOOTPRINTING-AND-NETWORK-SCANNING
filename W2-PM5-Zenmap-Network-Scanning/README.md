@@ -32,7 +32,7 @@ The `-sn` option performs host discovery without a port scan. The scan was used 
 - Three hosts were reported as up during the scan.
 - The responding devices were identified by correlating the scan output with the practitioner's knowledge of the connected laptop, second phone, and hotspot gateway.
 - MAC address information was displayed for some discovered devices; it was not reported for every host.
-- A Zenmap topology view was generated and saved as a PDF.
+- A Zenmap topology view was generated and captured as a screenshot; the exported PDF is retained separately with the original assignment evidence.
 
 ## Scope and Limitations
 
