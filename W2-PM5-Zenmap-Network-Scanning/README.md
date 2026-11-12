@@ -44,12 +44,13 @@ The `-sn` option performs host discovery without a port scan. The scan was used 
 
 ## Evidence
 
-Supporting screenshots and the topology PDF are organized in this module:
+Supporting screenshots are organized in the `screenshots/` directory:
 
-- `screenshots/` — Zenmap scan configuration and host-discovery output.
-- `topology/` — exported Zenmap network topology PDF.
+- `host-details-mac.png` — discovered host details (MAC addresses redacted).
+- `network-topology.png` — Zenmap network topology view.
+- `nmap-scan-output.png` — host-discovery scan output.
 
-Before publishing evidence, redact personal hotspot identifiers and any device details that are not necessary to demonstrate the exercise.
+The exported topology PDF is retained separately with the original assignment evidence.
 
 ## Disclaimer
 
